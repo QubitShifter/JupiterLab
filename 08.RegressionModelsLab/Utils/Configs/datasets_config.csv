@@ -1,0 +1,7 @@
+name,path
+coffee_data,../04/lab/merged_data_cleaned.csv
+spotify_data,lab/Most_Streamed_Spotify_Songs_2024.csv
+spotify_data_zipped,lab/spotify_most_streamed_2024.zip
+regression_dataset,lab/regression_dataset.csv
+
+
