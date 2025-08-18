@@ -1,5 +1,9 @@
 name,path
 solarData,data/Teague_Table.csv
+sunSpotsDaily,data/EISN_current.csv
+sunSpotsMonthly,data/SN_monthly_mean_total_V2.0.csv
+sunSpotsMonthlySmoothed,data/SN_monthly_smoothed_total_V2.0.csv
+sunSpotsEarly,data/SN_yearly_total_V2.0.csv
 coffee_data,../04/lab/merged_data_cleaned.csv
 spotify_data,lab/Most_Streamed_Spotify_Songs_2024.csv
 spotify_data_zipped,lab/spotify_most_streamed_2024.zip
